@@ -1,4 +1,4 @@
-# M2-Embedded_Atmega328
+# M2-Embedded_Distance Measurement
 
 
 [![Contribution Check - Git Inspector](https://github.com/AmulojuNaveenKumar/M2-Embedded_Atmega328/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AmulojuNaveenKumar/M2-Embedded_Atmega328/actions/workflows/gitinspector.yml)
